@@ -32,26 +32,26 @@ body {
 
 #temp1 img{
     object-fit: fill;
-    width: 98%;
-    height: 98%;
+    width: 99.9%;
+    height: 99.9%;
 }
 
 #temp2 img{
     object-fit: fill;
-    width: 98%;
-    height: 98%;
+    width: 99.9%;
+    height: 100%;
 }
 
 #temp3 img{
     object-fit: fill;
-    width: 98%;
-    height: 98%;
+    width: 99%;
+    height: 99%;
 }
 
 #temp4 img{
     object-fit: fill;
-    width: 98%;
-    height: 98%;
+    width: 100%;
+    height: 99%;
 }
 
 .overlay-image {
